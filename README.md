@@ -2,11 +2,11 @@
 
 Below link explains the steps by which this code is generated.
 
-https://coursecs.wordpress.com/courses/advance-web-development/creating-endpoints-routes-and-displaying-responses/
+https://coursecs.wordpress.com/courses/advance-web-development/getting-data-from-database-and-display-on-users-application/
 
 Below video link for explanation of this code.
 
-https://www.youtube.com/watch?v=PYyC6TTDYdU
+Link will be avaiable soon because video is under process
 
 **How to Run:**
 
